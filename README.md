@@ -1,10 +1,14 @@
 
+### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttufy)](https://github.com/uttufy/github-readme-stats)
+
+
 
 <!--
 **uttufy/uttufy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttufy)](https://github.com/GodBishtji/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttufy)](https://github.com/uttufy/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -18,19 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Hi there 👋
-Hi, I'm Utkarsh Sharma.
-
-- 💬 Ask me about anything [here](https://github.com/uttufy/uttufy/issues)
-
-**Language/Tools:** <br><br>
-<code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/dart_ico.png"></code>
-<code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/cpp.png"></code>
-<code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/py.png"></code>
-<code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/flutter.png"></code>
-<code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/android.png"></code>
-<code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/gcloud.png"></code>    
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=uttufy&theme=rogue" /> -->
 
 <!-- <br>
