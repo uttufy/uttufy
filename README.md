@@ -38,9 +38,6 @@ Hi, I'm Utkarsh Sharma.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uttufy&theme=radical" />
 </p>
 
-**Visitor Count** <br> 
-
-![Visitor Count](https://profile-counter.glitch.me/uttufy/count.svg)
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=uttufy&theme=rogue" /> -->
 
 <!-- <br>
