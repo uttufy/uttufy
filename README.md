@@ -31,13 +31,6 @@ Hi, I'm Utkarsh Sharma.
 <code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/flutter.png"></code>
 <code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/android.png"></code>
 <code><img height="20" src="https://github.com/uttufy/uttufy/raw/master/assets/images/gcloud.png"></code>    
-
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uttufy&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uttufy&theme=radical" />
-</p>
-
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=uttufy&theme=rogue" /> -->
 
 <!-- <br>
